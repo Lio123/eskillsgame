@@ -7,7 +7,7 @@
 	<name>eskillsgame</name>
 		<gap:platform name="android" />
 		<gap:platform name="ios" />
-		<preference name="orientation" value="portrait" />
+		<preference name="orientation" value="" />
 		<preference name="fullscreen" value="true" />
 		<icon src="icon.png" />
 </widget>
